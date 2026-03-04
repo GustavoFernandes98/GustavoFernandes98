@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
 <!-- Texto animado de apresentação -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!!+Me+chamo+Luiz+Gustavo+Fernandes.;Tenho+25+anos.;Sou+de+Pouso+Alegre+-MG.;Bem-vindo+ao+meu+perfil!+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!!+Sou+Luiz+Gustavo+Fernandes.;Tenho+27+anos.;Sou+de+Pouso+Alegre+-MG.;Bem-vindo+ao+meu+perfil!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 ---
 
